@@ -1,7 +1,7 @@
 # Chris McVey
 ## New York University
 
-<img src=”(https://https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_709839215/parcol1/image.img.jpg/1629905395389.jpg”>
+![Chris](https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_709839215/parcol1/image.img.jpg/1629905395389.jpg)
 
 You can use the [editor on GitHub](https://github.com/ChrisMcVey1/Chris_McVey/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
