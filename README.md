@@ -1,6 +1,8 @@
 # Chris McVey
 ## New York University
 
+<img src=”(https://www.google.com/search?q=chris+mcvey+nyu&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjxsfe7-Yn0AhWyhv0HHSxyAXgQ_AUoAnoECAEQBA&biw=1309&bih=746&dpr=1.1#imgrc=FCiw5p-Bx9T9mM)”>
+
 You can use the [editor on GitHub](https://github.com/ChrisMcVey1/Chris_McVey/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
