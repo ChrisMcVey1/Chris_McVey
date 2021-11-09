@@ -9,6 +9,11 @@ I am currently a second-year student at NYU studying with a joint major in Compu
 
 In the modern world, Data Science can create relevant solutions to some of our most pressing issues. As technology continues to progress, the influence of data analytics will only grow further. I hope to someday be at the forefront of analytical research and drive future solutions for the betterment of our world.
 
+## Contact
+
+Email: cjm805@nyu.edu
+LinkedIn: [Chris McVey](https://www.linkedin.com/in/chris-mcvey-687107224/)
+
 ## Projects
 ### [C02mr](https://github.com/ChrisMcVey1/co2mr)
 
