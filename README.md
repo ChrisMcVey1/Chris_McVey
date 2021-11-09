@@ -7,6 +7,7 @@ I am currently a second-year student at NYU studying with a joint major in Compu
 
 In the modern world, Data Science can create relevant solutions to some of our most pressing issues. As technology continues to progress, the influence of data analytics will only grow further. I hope to someday be at the forefront of analytical research and drive future solutions for the betterment of our world.
 
+<br/><br/><br/><br/>
 
 # Projects
 
