@@ -3,6 +3,8 @@
 
 <img align="left" width="30%" src="https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_709839215/parcol1/image.img.jpg/1629905395389.jpg">
 
+<img align="left" width="12%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiH6HxiCML02e_aYID8RHnjgM6HCq57tbvkCDl4CQ32RBSyXoKeijyeDo2W-BObjDOLQM&usqp=CAU">
+     
 I am currently a second-year student at NYU studying with a joint major in Computer Science and Economics. I am interested in exploring positions where I can utilize my coding skills, knowledge of economic analysis, and passion for Data Science.
 
 In the modern world, Data Science can create relevant solutions to some of our most pressing issues. As technology continues to progress, the influence of data analytics will only grow further. I hope to someday be at the forefront of analytical research and drive future solutions for the betterment of our world.
