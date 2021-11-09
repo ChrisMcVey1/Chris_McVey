@@ -1,4 +1,7 @@
 # Chris McVey
+
+<br/><br/>
+
 # About
 
 <img align="left" width="30%" src="https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_709839215/parcol1/image.img.jpg/1629905395389.jpg">
