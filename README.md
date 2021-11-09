@@ -11,7 +11,7 @@ In the modern world, Data Science can create relevant solutions to some of our m
 
 ## Contact
 
-Email: cjm805@nyu.edu
+Email: cjm805@nyu.edu<br>
 LinkedIn: [Chris McVey](https://www.linkedin.com/in/chris-mcvey-687107224/)
 
 ## Projects
