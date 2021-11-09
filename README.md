@@ -1,7 +1,7 @@
 # Chris McVey
 # About
 
-<img align="left" width="30%" src="https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_709839215/parcol1/image.img.jpg/1629905395389.jpg" border="1">
+<img align="left" width="30%" src="https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_709839215/parcol1/image.img.jpg/1629905395389.jpg">
 
 I am currently a second-year student at NYU studying with a joint major in Computer Science and Economics. I am interested in exploring positions where I can utilize my coding skills, knowledge of economic analysis, and passion for Data Science.
 
