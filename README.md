@@ -10,9 +10,9 @@ I am currently a second-year student at NYU studying with a joint major in Compu
 In the modern world, Data Science can create relevant solutions to some of our most pressing issues. As technology continues to progress, the influence of data analytics will only grow further. I hope to someday be at the forefront of analytical research and drive future solutions for the betterment of our world.
 
 ## Projects
-### CO2mr
+### [C02mr](https://github.com/ChrisMcVey1/co2mr)
 
-I collaborated with two other NYU students and programmed a platform within a 48-hour time constraint called [C02mr](https://github.com/ChrisMcVey1/co2mr) (CO Tomorrow) that connects clients such as architects, engineers, and contractors to Carbon Tech alternative materials to use in their projects that will store carbon and reduce greenhouse gas emissions. We were awarded for our program based on its sustainable impact, uniqueness and originality, and potential for large-scale growth.
+I collaborated with two other NYU students and programmed a platform within a 48-hour time constraint called CO2mr (CO Tomorrow) that connects clients such as architects, engineers, and contractors to Carbon Tech alternative materials to use in their projects that will store carbon and reduce greenhouse gas emissions. We were awarded for our program based on its sustainable impact, uniqueness and originality, and potential for large-scale growth.
 
 ### NYU Project Outreach
 
