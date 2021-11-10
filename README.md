@@ -5,7 +5,7 @@
 
 <img align="left" width="2%" height="250" src="https://content.etilize.com/Finish/1040021647.jpg">
      
-I am currently a second-year student at NYU pursuing a joint Computer Science and Economics. I am interested in exploring positions where I can utilize my coding skills, knowledge of economic analysis, and passion for Data Science.
+I am currently a second-year student at NYU pursuing a joint major in Computer Science and Economics. I am interested in exploring positions where I can utilize my coding skills, knowledge of economic analysis, and passion for Data Science.
 
 In the modern world, Data Science can create relevant solutions to some of our most pressing issues. As technology continues to progress, the influence of data analytics will only grow further. I hope to someday be at the forefront of analytical research and drive future solutions for the betterment of our world.
 
