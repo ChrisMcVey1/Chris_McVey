@@ -23,7 +23,7 @@ I collaborated with two other NYU students and programmed a platform within a 48
 
 I developed SECure alongside a small team of NYU students. The project is committed to alleviating poverty across the globe through Cybersecurity education. We aim to reduce the gap between the world's high demand for Cybersecurity skills and low supply of trained employees in the field. Through SECure, clients can fulfill all of the requirements necessary for entering the Cybersecurity field in a much more economical and accessible way. We provide low-cost courses, exposure to experts and mentors in the field, and specialized tracks to gain certifications in Cybersecurity. Clients will not only SECure a career in a high demanding and growing industry, but help SECure the virtual world as we know it.
 
-![SECure Logo](Logo.png)
+![SECure Logo](SECureLogo.png)
 
 ### [NYU Project Outreach](https://imgur.com/UrTR68O)
 
