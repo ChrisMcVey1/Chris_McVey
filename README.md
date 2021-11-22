@@ -19,6 +19,8 @@ LinkedIn: [Chris McVey](https://www.linkedin.com/in/chris-mcvey-687107224/)
 
 I collaborated with two other NYU students and programmed a platform within a 48-hour time constraint called CO2mr (CO Tomorrow) that connects clients such as architects, engineers, and contractors to Carbon Tech alternative materials to use in their projects that will store carbon and reduce greenhouse gas emissions. We were awarded for our program based on its sustainable impact, uniqueness and originality, and potential for large-scale growth.
 
+![CO2mr Logo](CO2mrLogo.png)
+
 ### [SECure](https://github.com/ChrisMcVey1/SECure)
 
 I developed SECure alongside a small team of NYU students. The project is committed to alleviating poverty across the globe through Cybersecurity education. We aim to reduce the gap between the world's high demand for Cybersecurity skills and low supply of trained employees in the field. Through SECure, clients can fulfill all of the requirements necessary for entering the Cybersecurity field in a much more economical and accessible way. We provide low-cost courses, exposure to experts and mentors in the field, and specialized tracks to gain certifications in Cybersecurity. Clients will not only SECure a career in a high demanding and growing industry, but help SECure the virtual world as we know it.
