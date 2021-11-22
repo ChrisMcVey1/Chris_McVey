@@ -19,6 +19,10 @@ LinkedIn: [Chris McVey](https://www.linkedin.com/in/chris-mcvey-687107224/)
 
 I collaborated with two other NYU students and programmed a platform within a 48-hour time constraint called CO2mr (CO Tomorrow) that connects clients such as architects, engineers, and contractors to Carbon Tech alternative materials to use in their projects that will store carbon and reduce greenhouse gas emissions. We were awarded for our program based on its sustainable impact, uniqueness and originality, and potential for large-scale growth.
 
+### [SECure](https://github.com/ChrisMcVey1/SECure)
+
+I developed SECure alongside a small team of NYU students. The project is committed to alleviating poverty across the globe through Cybersecurity education. We aim to reduce the gap between the world's high demand for Cybersecurity skills and low supply of trained employees in the field. Through SECure, clients can fulfill all of the requirements necessary for entering the Cybersecurity field in a much more economical and accessible way. We provide low-cost courses, exposure to experts and mentors in the field, and specialized tracks to gain certifications in Cybersecurity. Clients will not only SECure a career in a high demanding and growing industry, but help SECure the virtual world as we know it.
+
 ### [NYU Project Outreach](https://imgur.com/UrTR68O)
 
 Project Outreach is a program that involves service and civic engagement for selected first-year students prior to the beginning of their education at NYU. I worked with a team of students to launch a social justice initiative by producing stickers with a QR-code to be posted in Manhattan that links to a website created by my team. Our linked website outlines what groups are indigenous to the respective area and the information that should be considered when advocating for these native groups.
