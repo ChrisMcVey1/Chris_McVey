@@ -30,3 +30,5 @@ I developed SECure alongside a small team of NYU students. The project is commit
 ### [NYU Project Outreach](https://imgur.com/UrTR68O)
 
 Project Outreach is a program that involves service and civic engagement for selected first-year students prior to the beginning of their education at NYU. I worked with a team of students to launch a social justice initiative by producing stickers with a QR-code to be posted in Manhattan that links to a website created by my team. Our linked website outlines what groups are indigenous to the respective area and the information that should be considered when advocating for these native groups.
+
+![POLogo Logo](POLogo.png)
