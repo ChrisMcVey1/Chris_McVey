@@ -5,9 +5,8 @@
 
 <img align="left" width="2%" height="250" src="https://content.etilize.com/Finish/1040021647.jpg">
      
-I am currently a rising junior at NYU studying Computer Science and Economics. <br />
-I am interested in positions where I can explore my interest in the financial <br />
-industry while utilizing my technical background and coding experience. <br />
+I am currently a rising junior at NYU studying Computer Science and Economics. I am interested in positions where I can explore my interest in the financial industry while utilizing my technical background and coding experience.
+<br />
 <br />
 <br />
 <br />
