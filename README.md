@@ -1,7 +1,7 @@
 # Chris McVey
 ## About Me
 
-<img align="left" width="30%" src="https://cas.nyu.edu/content/nyu-as/cas/newstudents/get-involved/current-college-leaders/_jcr_content/par/columncontrol_1622448725/parcol1/image.img.png/1658429653614.png">
+<img align="left" width="30%" src="https://media.licdn.com/dms/image/C4E03AQFTJU9r0avWLw/profile-displayphoto-shrink_800_800/0/1660321295511?e=1677715200&v=beta&t=wG_g7WSq5mmlxcmFY3uhi3wjS4p2M6IoJSSXON7Mcac">
 
 <img align="left" width="2%" height="250" src="https://content.etilize.com/Finish/1040021647.jpg">
      
@@ -24,7 +24,7 @@ Email: cjm805@nyu.edu<br>
 LinkedIn: [Chris McVey](https://www.linkedin.com/in/chris-mcvey-687107224/)
 
 ## Projects
-### [C02mr](https://github.com/ChrisMcVey1/co2mr)
+### [C02mr](https://github.com/ChrisMcVey1/HackNYU-co2mr)
 
 I collaborated with two other NYU students and programmed a platform within a 48-hour time constraint called CO2mr (CO Tomorrow) that connects clients such as architects, engineers, and contractors to Carbon Tech alternative materials to use in their projects that will store carbon and reduce greenhouse gas emissions. We were awarded for our program based on its sustainable impact, uniqueness and originality, and potential for large-scale growth.
 
